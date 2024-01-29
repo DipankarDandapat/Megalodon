@@ -1,0 +1,5 @@
+2022-08-29 22:12:19,838 - INFO - ###### TEST EXECUTION STARTED :: test_verify_main_screen_elements ######
+2022-08-29 22:12:28,284 - INFO - ###### TEST EXECUTION STARTED :: test_verify_main_screen_elements ######
+2022-08-29 22:12:43,505 - INFO - Element found with locator: com.mpokket.app:id/tv_rupees and locatorType: id
+2022-08-29 22:12:43,608 - INFO - clicked on element with locator: com.mpokket.app:id/tv_rupees locatorType: id
+2022-08-29 22:12:48,707 - INFO - 3

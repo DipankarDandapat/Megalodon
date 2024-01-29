@@ -1,0 +1,16 @@
+2022-09-02 11:46:28,126 - INFO - server started
+2022-09-02 11:46:51,757 - INFO - ###### TEST EXECUTION STARTED :: test_verify_main_screen_elements ######
+2022-09-02 11:46:56,766 - INFO - Waiting for maximum :: 10 :: seconds for element to be displayed
+2022-09-02 11:47:02,149 - INFO - Element appeared on the web page
+2022-09-02 11:47:02,231 - INFO - Element found with locator: com.mpokket.app:id/tv_iWantBlue and locatorType: id
+2022-09-02 11:47:02,754 - INFO - Getting text on element :: 
+2022-09-02 11:47:02,755 - INFO - The text is :: 'Amount you want to borrow'
+2022-09-02 11:47:02,755 - INFO - <class 'str'>
+2022-09-02 11:47:02,755 - INFO - Amount you want to borrow
+2022-09-02 11:47:14,039 - INFO - Element found with locator: com.mpokket.app:id/tv_rupees and locatorType: id
+2022-09-02 11:47:14,145 - INFO - clicked on element with locator: com.mpokket.app:id/tv_rupees locatorType: id
+2022-09-02 11:47:19,451 - INFO - 0
+2022-09-02 11:47:24,497 - ERROR - Element not found with locator: com.mpokket.app:id/tv_month and locatorType: id
+2022-09-02 11:47:24,497 - ERROR - cannot click on the element with locator: com.mpokket.app:id/tv_month locatorType: id
+2022-09-02 11:47:46,074 - INFO - Element found with locator: com.mpokket.app:id/tv_request and locatorType: id
+2022-09-02 11:47:46,199 - INFO - clicked on element with locator: com.mpokket.app:id/tv_request locatorType: id

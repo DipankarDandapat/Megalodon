@@ -1,0 +1,34 @@
+2022-08-30 14:06:31,175 - INFO - ###### TEST EXECUTION STARTED :: test_verify_main_screen_elements ######
+2022-08-30 14:06:40,565 - INFO - ###### TEST EXECUTION STARTED :: test_verify_main_screen_elements ######
+2022-08-30 14:06:55,783 - INFO - Element found with locator: com.mpokket.app:id/tv_rupees and locatorType: id
+2022-08-30 14:06:55,861 - INFO - clicked on element with locator: com.mpokket.app:id/tv_rupees locatorType: id
+2022-08-30 14:07:01,176 - INFO - 3
+2022-08-30 14:07:07,293 - INFO - Element found with locator: com.mpokket.app:id/tv_month and locatorType: id
+2022-08-30 14:07:07,408 - INFO - clicked on element with locator: com.mpokket.app:id/tv_month locatorType: id
+2022-08-30 14:07:25,039 - INFO - Element found with locator: com.mpokket.app:id/tv_request and locatorType: id
+2022-08-30 14:07:25,184 - INFO - clicked on element with locator: com.mpokket.app:id/tv_request locatorType: id
+2022-08-30 14:07:30,262 - INFO - Element found with locator: com.mpokket.app:id/clBank and locatorType: id
+2022-08-30 14:07:30,364 - INFO - clicked on element with locator: com.mpokket.app:id/clBank locatorType: id
+2022-08-30 14:07:35,432 - INFO - [<appium.webdriver.webelement.WebElement (session="791181d9-a3d5-4881-9383-4b8d6d5954c4", element="00000000-0000-041c-ffff-ffff00000163")>]
+2022-08-30 14:07:41,284 - INFO - Element found with locator: com.mpokket.app:id/cb_self_declaration and locatorType: id
+2022-08-30 14:07:41,364 - INFO - clicked on element with locator: com.mpokket.app:id/cb_self_declaration locatorType: id
+2022-08-30 14:07:46,428 - INFO - Element found with locator: com.mpokket.app:id/btn_confirm_student and locatorType: id
+2022-08-30 14:07:46,515 - INFO - clicked on element with locator: com.mpokket.app:id/btn_confirm_student locatorType: id
+2022-08-30 14:07:51,668 - INFO - 7
+2022-08-30 14:07:56,860 - INFO - Element found with locator: com.mpokket.app:id/btn_continue and locatorType: id
+2022-08-30 14:07:56,931 - INFO - clicked on element with locator: com.mpokket.app:id/btn_continue locatorType: id
+2022-08-30 14:08:02,055 - INFO - [<appium.webdriver.webelement.WebElement (session="791181d9-a3d5-4881-9383-4b8d6d5954c4", element="00000000-0000-0421-ffff-ffff000001cc")>, <appium.webdriver.webelement.WebElement (session="791181d9-a3d5-4881-9383-4b8d6d5954c4", element="00000000-0000-0421-ffff-ffff000001d2")>, <appium.webdriver.webelement.WebElement (session="791181d9-a3d5-4881-9383-4b8d6d5954c4", element="00000000-0000-0421-ffff-ffff000001d8")>, <appium.webdriver.webelement.WebElement (session="791181d9-a3d5-4881-9383-4b8d6d5954c4", element="00000000-0000-0421-ffff-ffff000001de")>]
+2022-08-30 14:08:08,794 - INFO - Element found with locator: com.mpokket.app:id/tv_agree and locatorType: id
+2022-08-30 14:08:08,862 - INFO - clicked on element with locator: com.mpokket.app:id/tv_agree locatorType: id
+2022-08-30 14:08:23,878 - INFO - Waiting for maximum :: 10 :: seconds for element to be clickable
+2022-08-30 14:08:24,670 - INFO - Element appeared on the web page
+2022-08-30 14:08:24,767 - INFO - Element found with locator: //*[@resource-id='com.mpokket.app:id/btn_continue'] and locatorType: xpath
+2022-08-30 14:08:24,849 - INFO - clicked on element with locator: //*[@resource-id='com.mpokket.app:id/btn_continue'] locatorType: xpath
+2022-08-30 14:08:29,859 - INFO - Waiting for maximum :: 10 :: seconds for element to be clickable
+2022-08-30 14:08:31,002 - INFO - Element appeared on the web page
+2022-08-30 14:08:31,289 - INFO - Element found with locator: com.mpokket.app:id/tv_accept and locatorType: id
+2022-08-30 14:08:31,367 - INFO - clicked on element with locator: com.mpokket.app:id/tv_accept locatorType: id
+2022-08-30 14:08:36,380 - INFO - Waiting for maximum :: 10 :: seconds for element to be clickable
+2022-08-30 14:08:36,817 - INFO - Element appeared on the web page
+2022-08-30 14:08:36,867 - INFO - Element found with locator: com.mpokket.app:id/btn_got_it and locatorType: id
+2022-08-30 14:08:36,930 - INFO - clicked on element with locator: com.mpokket.app:id/btn_got_it locatorType: id

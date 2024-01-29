@@ -1,0 +1,28 @@
+2022-08-30 13:53:53,268 - INFO - ###### TEST EXECUTION STARTED :: test_verify_main_screen_elements ######
+2022-08-30 13:54:02,550 - INFO - ###### TEST EXECUTION STARTED :: test_verify_main_screen_elements ######
+2022-08-30 13:54:17,785 - INFO - Element found with locator: com.mpokket.app:id/tv_rupees and locatorType: id
+2022-08-30 13:54:17,862 - INFO - clicked on element with locator: com.mpokket.app:id/tv_rupees locatorType: id
+2022-08-30 13:54:23,181 - INFO - 3
+2022-08-30 13:54:29,300 - INFO - Element found with locator: com.mpokket.app:id/tv_month and locatorType: id
+2022-08-30 13:54:29,409 - INFO - clicked on element with locator: com.mpokket.app:id/tv_month locatorType: id
+2022-08-30 13:54:47,195 - INFO - Element found with locator: com.mpokket.app:id/tv_request and locatorType: id
+2022-08-30 13:54:47,305 - INFO - clicked on element with locator: com.mpokket.app:id/tv_request locatorType: id
+2022-08-30 13:54:52,362 - INFO - Element found with locator: com.mpokket.app:id/clBank and locatorType: id
+2022-08-30 13:54:52,441 - INFO - clicked on element with locator: com.mpokket.app:id/clBank locatorType: id
+2022-08-30 13:54:57,519 - INFO - [<appium.webdriver.webelement.WebElement (session="a72806e7-fa3e-484f-94d8-6ca46d40aba7", element="00000000-0000-03d2-ffff-ffff00000163")>]
+2022-08-30 13:55:03,386 - INFO - Element found with locator: com.mpokket.app:id/cb_self_declaration and locatorType: id
+2022-08-30 13:55:03,433 - INFO - clicked on element with locator: com.mpokket.app:id/cb_self_declaration locatorType: id
+2022-08-30 13:55:08,502 - INFO - Element found with locator: com.mpokket.app:id/btn_confirm_student and locatorType: id
+2022-08-30 13:55:08,611 - INFO - clicked on element with locator: com.mpokket.app:id/btn_confirm_student locatorType: id
+2022-08-30 13:55:13,765 - INFO - 7
+2022-08-30 13:55:18,936 - INFO - Element found with locator: com.mpokket.app:id/btn_continue and locatorType: id
+2022-08-30 13:55:18,998 - INFO - clicked on element with locator: com.mpokket.app:id/btn_continue locatorType: id
+2022-08-30 13:55:24,788 - INFO - [<appium.webdriver.webelement.WebElement (session="a72806e7-fa3e-484f-94d8-6ca46d40aba7", element="00000000-0000-03d7-ffff-ffff000001cc")>, <appium.webdriver.webelement.WebElement (session="a72806e7-fa3e-484f-94d8-6ca46d40aba7", element="00000000-0000-03d7-ffff-ffff000001d2")>, <appium.webdriver.webelement.WebElement (session="a72806e7-fa3e-484f-94d8-6ca46d40aba7", element="00000000-0000-03d7-ffff-ffff000001d8")>, <appium.webdriver.webelement.WebElement (session="a72806e7-fa3e-484f-94d8-6ca46d40aba7", element="00000000-0000-03d7-ffff-ffff000001de")>]
+2022-08-30 13:55:31,602 - INFO - Element found with locator: com.mpokket.app:id/tv_agree and locatorType: id
+2022-08-30 13:55:31,664 - INFO - clicked on element with locator: com.mpokket.app:id/tv_agree locatorType: id
+2022-08-30 13:55:46,677 - INFO - Waiting for maximum :: 10 :: seconds for element to be clickable
+2022-08-30 13:55:46,833 - INFO - Element appeared on the web page
+2022-08-30 13:55:51,881 - ERROR - Element not found with locator: com.mpokket.app:id/tv_accept and locatorType: id
+2022-08-30 13:55:51,881 - ERROR - cannot click on the element with locator: com.mpokket.app:id/tv_accept locatorType: id
+2022-08-30 13:55:56,916 - ERROR - Element not found with locator: com.mpokket.app:id/btn_got_it and locatorType: id
+2022-08-30 13:55:56,916 - ERROR - cannot click on the element with locator: com.mpokket.app:id/btn_got_it locatorType: id

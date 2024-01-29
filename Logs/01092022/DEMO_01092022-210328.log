@@ -1,0 +1,38 @@
+2022-09-01 21:03:31,475 - INFO - server started
+2022-09-01 21:03:55,275 - INFO - ###### TEST EXECUTION STARTED :: test_verify_main_screen_elements ######
+2022-09-01 21:04:02,263 - ERROR - Element not found with locator: com.mpokket.app:id/tv_iWantBlue and locatorType: id
+2022-09-01 21:04:02,263 - ERROR - Exception occurred during text retrieval. 
+2022-09-01 21:04:02,295 - INFO - <class 'NoneType'>
+2022-09-01 21:04:02,295 - INFO - None
+2022-09-01 21:04:12,485 - INFO - Element found with locator: com.mpokket.app:id/tv_rupees and locatorType: id
+2022-09-01 21:04:13,205 - INFO - clicked on element with locator: com.mpokket.app:id/tv_rupees locatorType: id
+2022-09-01 21:04:18,548 - INFO - 3
+2022-09-01 21:04:24,695 - INFO - Element found with locator: com.mpokket.app:id/tv_month and locatorType: id
+2022-09-01 21:04:24,793 - INFO - clicked on element with locator: com.mpokket.app:id/tv_month locatorType: id
+2022-09-01 21:04:42,656 - ERROR - Element not found with locator: com.mpokket.app:id/tv_request and locatorType: id
+2022-09-01 21:04:42,656 - ERROR - cannot click on the element with locator: com.mpokket.app:id/tv_request locatorType: id
+2022-09-01 21:04:48,186 - ERROR - Element not found with locator: com.mpokket.app:id/clBank and locatorType: id
+2022-09-01 21:04:48,186 - ERROR - cannot click on the element with locator: com.mpokket.app:id/clBank locatorType: id
+2022-09-01 21:04:53,648 - INFO - []
+2022-09-01 21:04:59,127 - ERROR - Element not found with locator: com.mpokket.app:id/cb_self_declaration and locatorType: id
+2022-09-01 21:04:59,127 - ERROR - cannot click on the element with locator: com.mpokket.app:id/cb_self_declaration locatorType: id
+2022-09-01 21:05:04,582 - ERROR - Element not found with locator: com.mpokket.app:id/btn_confirm_student and locatorType: id
+2022-09-01 21:05:04,582 - ERROR - cannot click on the element with locator: com.mpokket.app:id/btn_confirm_student locatorType: id
+2022-09-01 21:05:10,247 - INFO - 0
+2022-09-01 21:05:16,610 - ERROR - Element not found with locator: com.mpokket.app:id/btn_continue and locatorType: id
+2022-09-01 21:05:16,610 - ERROR - cannot click on the element with locator: com.mpokket.app:id/btn_continue locatorType: id
+2022-09-01 21:05:22,072 - INFO - []
+2022-09-01 21:05:27,360 - ERROR - Element not found with locator: com.mpokket.app:id/tv_agree and locatorType: id
+2022-09-01 21:05:27,360 - ERROR - cannot click on the element with locator: com.mpokket.app:id/tv_agree locatorType: id
+2022-09-01 21:05:37,362 - INFO - Waiting for maximum :: 10 :: seconds for element to be clickable
+2022-09-01 21:05:47,392 - ERROR - Exception occurred while waiting for element to be clickable.
+2022-09-01 21:05:47,758 - ERROR - Element not found with locator: //*[@resource-id='com.mpokket.app:id/btn_continue'] and locatorType: xpath
+2022-09-01 21:05:47,758 - ERROR - cannot click on the element with locator: //*[@resource-id='com.mpokket.app:id/btn_continue'] locatorType: xpath
+2022-09-01 21:05:52,763 - INFO - Waiting for maximum :: 10 :: seconds for element to be clickable
+2022-09-01 21:06:02,773 - ERROR - Exception occurred while waiting for element to be clickable.
+2022-09-01 21:06:03,075 - ERROR - Element not found with locator: com.mpokket.app:id/tv_accept and locatorType: id
+2022-09-01 21:06:03,075 - ERROR - cannot click on the element with locator: com.mpokket.app:id/tv_accept locatorType: id
+2022-09-01 21:06:08,083 - INFO - Waiting for maximum :: 10 :: seconds for element to be clickable
+2022-09-01 21:06:18,667 - ERROR - Exception occurred while waiting for element to be clickable.
+2022-09-01 21:06:18,968 - ERROR - Element not found with locator: com.mpokket.app:id/btn_got_it and locatorType: id
+2022-09-01 21:06:18,968 - ERROR - cannot click on the element with locator: com.mpokket.app:id/btn_got_it locatorType: id

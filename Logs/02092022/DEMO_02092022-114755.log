@@ -1,0 +1,41 @@
+2022-09-02 11:47:58,015 - INFO - server started
+2022-09-02 11:48:21,404 - INFO - ###### TEST EXECUTION STARTED :: test_verify_main_screen_elements ######
+2022-09-02 11:48:26,406 - INFO - Waiting for maximum :: 10 :: seconds for element to be displayed
+2022-09-02 11:48:29,251 - INFO - Element appeared on the web page
+2022-09-02 11:48:29,349 - INFO - Element found with locator: com.mpokket.app:id/tv_iWantBlue and locatorType: id
+2022-09-02 11:48:29,396 - INFO - Getting text on element :: 
+2022-09-02 11:48:29,397 - INFO - The text is :: 'Amount you want to borrow'
+2022-09-02 11:48:29,397 - INFO - <class 'str'>
+2022-09-02 11:48:29,397 - INFO - Amount you want to borrow
+2022-09-02 11:48:39,518 - INFO - Element found with locator: com.mpokket.app:id/tv_rupees and locatorType: id
+2022-09-02 11:48:39,610 - INFO - clicked on element with locator: com.mpokket.app:id/tv_rupees locatorType: id
+2022-09-02 11:48:44,950 - INFO - 3
+2022-09-02 11:48:51,017 - INFO - Element found with locator: com.mpokket.app:id/tv_month and locatorType: id
+2022-09-02 11:48:51,123 - INFO - clicked on element with locator: com.mpokket.app:id/tv_month locatorType: id
+2022-09-02 11:49:13,766 - INFO - Element found with locator: com.mpokket.app:id/tv_request and locatorType: id
+2022-09-02 11:49:13,861 - INFO - clicked on element with locator: com.mpokket.app:id/tv_request locatorType: id
+2022-09-02 11:49:18,920 - INFO - Element found with locator: com.mpokket.app:id/clBank and locatorType: id
+2022-09-02 11:49:19,006 - INFO - clicked on element with locator: com.mpokket.app:id/clBank locatorType: id
+2022-09-02 11:49:24,091 - INFO - [<appium.webdriver.webelement.WebElement (session="fd1a431a-d152-46a5-9b0b-1cfc8a87dc85", element="00000000-0000-08c6-ffff-ffff00000163")>]
+2022-09-02 11:49:29,953 - INFO - Element found with locator: com.mpokket.app:id/cb_self_declaration and locatorType: id
+2022-09-02 11:49:30,003 - INFO - clicked on element with locator: com.mpokket.app:id/cb_self_declaration locatorType: id
+2022-09-02 11:49:35,068 - INFO - Element found with locator: com.mpokket.app:id/btn_confirm_student and locatorType: id
+2022-09-02 11:49:35,147 - INFO - clicked on element with locator: com.mpokket.app:id/btn_confirm_student locatorType: id
+2022-09-02 11:49:40,317 - INFO - 7
+2022-09-02 11:49:45,501 - INFO - Element found with locator: com.mpokket.app:id/btn_continue and locatorType: id
+2022-09-02 11:49:45,574 - INFO - clicked on element with locator: com.mpokket.app:id/btn_continue locatorType: id
+2022-09-02 11:49:50,717 - INFO - [<appium.webdriver.webelement.WebElement (session="fd1a431a-d152-46a5-9b0b-1cfc8a87dc85", element="00000000-0000-08cb-ffff-ffff000001cc")>, <appium.webdriver.webelement.WebElement (session="fd1a431a-d152-46a5-9b0b-1cfc8a87dc85", element="00000000-0000-08cb-ffff-ffff000001d2")>, <appium.webdriver.webelement.WebElement (session="fd1a431a-d152-46a5-9b0b-1cfc8a87dc85", element="00000000-0000-08cb-ffff-ffff000001d8")>, <appium.webdriver.webelement.WebElement (session="fd1a431a-d152-46a5-9b0b-1cfc8a87dc85", element="00000000-0000-08cb-ffff-ffff000001de")>]
+2022-09-02 11:49:57,517 - INFO - Element found with locator: com.mpokket.app:id/tv_agree and locatorType: id
+2022-09-02 11:49:57,580 - INFO - clicked on element with locator: com.mpokket.app:id/tv_agree locatorType: id
+2022-09-02 11:50:07,587 - INFO - Waiting for maximum :: 10 :: seconds for element to be clickable
+2022-09-02 11:50:09,366 - INFO - Element appeared on the web page
+2022-09-02 11:50:09,478 - INFO - Element found with locator: //*[@resource-id='com.mpokket.app:id/btn_continue'] and locatorType: xpath
+2022-09-02 11:50:09,546 - INFO - clicked on element with locator: //*[@resource-id='com.mpokket.app:id/btn_continue'] locatorType: xpath
+2022-09-02 11:50:14,547 - INFO - Waiting for maximum :: 10 :: seconds for element to be clickable
+2022-09-02 11:50:15,507 - INFO - Element appeared on the web page
+2022-09-02 11:50:15,740 - INFO - Element found with locator: com.mpokket.app:id/tv_accept and locatorType: id
+2022-09-02 11:50:16,310 - INFO - clicked on element with locator: com.mpokket.app:id/tv_accept locatorType: id
+2022-09-02 11:50:21,326 - INFO - Waiting for maximum :: 10 :: seconds for element to be clickable
+2022-09-02 11:50:21,561 - INFO - Element appeared on the web page
+2022-09-02 11:50:21,602 - INFO - Element found with locator: com.mpokket.app:id/btn_got_it and locatorType: id
+2022-09-02 11:50:21,662 - INFO - clicked on element with locator: com.mpokket.app:id/btn_got_it locatorType: id

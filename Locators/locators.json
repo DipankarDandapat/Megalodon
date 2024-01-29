@@ -1,0 +1,468 @@
+[
+
+   {
+    "pageName": "HomePage",
+    "name": "android_view_mobile",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.Button[@resource-id='com.google.android.gms:id/cancel']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "mobile_number_box",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.EditText[@resource-id='com.mpokket.app:id/et_mobile_number']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "mobile_number_process",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.Button[@resource-id='com.mpokket.app:id/bt_login_proceed']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "password_box",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.EditText[@resource-id='com.mpokket.app:id/et_password']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "view_password_button",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.ImageView[@resource-id='com.mpokket.app:id/iv_passeye']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "LoginButton",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.Button[@resource-id='com.mpokket.app:id/tv_login']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "ProfileButton",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.ImageView[@resource-id='com.mpokket.app:id/iv_profile']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "KYCButton",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.TextView[@text='KYC Verification']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "Selfie",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.ImageView[@resource-id='com.mpokket.app:id/btnAddImage']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "SelfieStartbutton",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.TextView[@resource-id='com.mpokket.app:id/tv_submit']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "captureBtn",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.ImageView[@resource-id='com.mpokket.app:id/captureBtn']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "captureBtnsave",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.TextView[@resource-id='com.mpokket.app:id/tvSave']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "pancard",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.EditText[@resource-id='com.mpokket.app:id/editPan']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "KycType",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.EditText[@resource-id='com.mpokket.app:id/editKycType']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "KycDocNum",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.EditText[@resource-id='com.mpokket.app:id/editKycDocNum']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "selectPassport",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.TextView[@text='Passport']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "imgFront",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.ImageView[@resource-id='com.mpokket.app:id/imgFront']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "OPENPHOTOS",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.TextView[@text='OPEN PHOTOS']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "selectphoto",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.LinearLayout[@content-desc='imagess.jpeg, 23.16 kB, 21 Aug 2020']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "saveimage",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/tvSave"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "imgBack",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/imgBack"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "SUBMIT",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.TextView[@resource-id='com.mpokket.app:id/btnSubmit']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "BasicInformation",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.TextView[@text='Basic Information']"
+  }
+  ,
+  {
+    "pageName": "HomePage",
+    "name": "FirstName",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.EditText[@resource-id='com.mpokket.app:id/editFirstName']"
+  }
+  ,
+  {
+    "pageName": "HomePage",
+    "name": "MiddleName",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.EditText[@resource-id='com.mpokket.app:id/editMiddleName']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "LastName",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.EditText[@resource-id='com.mpokket.app:id/editLastName']"
+  }
+  ,
+  {
+    "pageName": "HomePage",
+    "name": "gender",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.RadioButton[@resource-id='com.mpokket.app:id/radioButtonMale']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "maritalstatus",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.RadioButton[@resource-id='com.mpokket.app:id/radioButtonSingle']"
+  }
+  ,
+  {
+    "pageName": "HomePage",
+    "name": "dob",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/editDob"
+  }
+  ,
+  {
+    "pageName": "HomePage",
+    "name": "year",
+    "locateUsing": "id",
+    "locator": "android:id/date_picker_header_year"
+  }
+  ,
+  {
+    "pageName": "HomePage",
+    "name": "yearlist",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.TextView[@resource-id='android:id/text1']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "daylist",
+    "locateUsing": "class",
+    "locator": "android.view.View"
+  }
+  ,
+  {
+    "pageName": "HomePage",
+    "name": "OKbutton",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.Button[@resource-id='android:id/button1']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "HighestQualification",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.EditText[@resource-id='com.mpokket.app:id/editQualification']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "Qualificationtitle",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.TextView[@resource-id='android:id/title']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "FatherName",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.EditText[@resource-id='com.mpokket.app:id/editFatherName']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "MotherName",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.EditText[@resource-id='com.mpokket.app:id/editMotherName']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "NextButton",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.LinearLayout[@resource-id='com.mpokket.app:id/btnNext']"
+  }
+  ,
+  {
+    "pageName": "HomePage",
+    "name": "PermanentAddress",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.EditText[@resource-id='com.mpokket.app:id/editPermanentAddress']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "PermanentPinCode",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.EditText[@resource-id='com.mpokket.app:id/editPermanentPincode']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "CurrentAddressCheckBox",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/checkboxSameAddress"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "btnNo",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/btnNo"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "MobileNumber",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/editMobileNumber"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "EmploymentInformation",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.TextView[@text='Employment Information']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "CompanyName",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/editCompanyName"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "OfficeAddress",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/et_office_address"
+
+  },
+  {
+    "pageName": "HomePage",
+    "name": "OfficePincode",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/editOfficePincode"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "HomeSalary",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/editSalary"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "Designation",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/editDesignation"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "JoiningDate",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/editJoiningDate"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "JoiningDate_year",
+    "locateUsing": "id",
+    "locator": "android:id/date_picker_header_year"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "JoiningDate_year_list",
+    "locateUsing": "id",
+    "locator": "android:id/text1"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "JoiningDatedaylist",
+    "locateUsing": "class",
+    "locator": "android.view.View"
+  }
+  ,
+  {
+    "pageName": "HomePage",
+    "name": "EmploymentProof",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/editProof"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "EmploymentProofList",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.TextView[@resource-id='android:id/title']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "UploadEmploymentProof",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.ImageView[@resource-id='com.mpokket.app:id/imageView']"
+  },
+  {
+    "pageName": "HomePage",
+    "name": "UploadPhotosFromGallery",
+    "locateUsing": "xpath",
+    "locator": "//android.widget.LinearLayout[@resource-id='com.mpokket.app:id/btnGallery']"
+  },
+
+  {
+    "pageName": "LoanRequest",
+    "name": "AmountBorrowText",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/tv_iWantBlue"
+  },
+  {
+    "pageName": "LoanRequest",
+    "name": "ChoosetheAmountBox",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/tv_rupees"
+  },
+  {
+    "pageName": "LoanRequest",
+    "name": "listAmount",
+    "locateUsing": "xpath",
+    "locator": "//*[@resource-id='android:id/title']"
+  }
+  ,
+  {
+    "pageName": "LoanRequest",
+    "name": "ChooseMonthTenure",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/tv_month"
+  },
+  {
+    "pageName": "LoanRequest",
+    "name": "listTenure",
+    "locateUsing": "xpath",
+    "locator": "//*[@resource-id='android:id/title']"
+  },
+  {
+    "pageName": "LoanRequest",
+    "name": "RequestLoanButton",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/tv_request"
+  },
+  {
+    "pageName": "LoanRequest",
+    "name": "BankAccount",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/clBank"
+  },
+  {
+    "pageName": "LoanRequest",
+    "name": "SelectBankAccount",
+    "locateUsing": "class",
+    "locator": "androidx.cardview.widget.CardView"
+  },
+  {
+    "pageName": "LoanRequest",
+    "name": "SelfDeclarationCheckBox",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/cb_self_declaration"
+  },
+  {
+    "pageName": "LoanRequest",
+    "name": "ConfirmButton",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/btn_confirm_student"
+  },
+  {
+    "pageName": "LoanRequest",
+    "name": "UseMoneyFor",
+    "locateUsing": "xpath",
+    "locator": "//*[@resource-id='com.mpokket.app:id/tv_money_user_item']"
+  },
+  {
+    "pageName": "LoanRequest",
+    "name": "continueButton",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/btn_continue"
+  },
+  {
+    "pageName": "LoanRequest",
+    "name": "AgreeToTerms",
+    "locateUsing": "xpath",
+    "locator": "//*[@resource-id='com.mpokket.app:id/cls_agreeterms']"
+  },
+  {
+    "pageName": "LoanRequest",
+    "name": "IAgreeButton",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/tv_agree"
+  },
+  {
+    "pageName": "LoanRequest",
+    "name": "VewContractButton",
+    "locateUsing": "xpath",
+    "locator": "//*[@resource-id='com.mpokket.app:id/btn_continue']"
+  },
+  {
+    "pageName": "LoanRequest",
+      "name": "LoanAgreeButton",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/tv_accept"
+  }
+  ,
+  {
+    "pageName": "LoanRequest",
+      "name": "LoanGotItButton",
+    "locateUsing": "id",
+    "locator": "com.mpokket.app:id/btn_got_it"
+  }
+
+
+]
+
+
+
+
+
+
